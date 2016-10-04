@@ -1,0 +1,3 @@
+---
+- debug: var=name
+- include: include.yml
